@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+basic to do list/ notes app 
+
+![image](https://user-images.githubusercontent.com/98225513/234106190-989ebb8b-cc97-4aa3-801e-1efeaecf7f5b.png)
 
 ## Getting Started
 
